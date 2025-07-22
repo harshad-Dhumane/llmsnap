@@ -34,27 +34,6 @@ const Index = () => {
       <div className="relative z-10 px-4 py-16">
         {/* Hero Section */}
         <div className="flex flex-col items-center justify-center min-h-screen max-w-6xl mx-auto">
-          {/* Header decoration */}
-          <div className="flex items-center gap-2 mb-8 animate-fade-in">
-            <Sparkles className="w-5 h-5 text-primary animate-pulse" />
-            <span className="text-sm font-medium text-muted-foreground tracking-wide uppercase">
-              Premium AI Domain for Sale
-            </span>
-            <Sparkles className="w-5 h-5 text-primary animate-pulse" />
-          </div>
-
-          {/* Main Headline */}
-          <div className="text-center mb-8 animate-fade-in-up">
-            <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-orange-400 via-yellow-400 to-purple-400 bg-clip-text text-transparent animate-shimmer">
-              LLMSnap.com
-            </h1>
-            <h2 className="text-xl md:text-2xl text-muted-foreground mb-2">
-              Premium AI Domain for Sale
-            </h2>
-            <p className="text-lg text-muted-foreground/80">
-              Instant brand recognition for your AI/ML startup
-            </p>
-          </div>
 
           {/* Main Domain Card */}
           <div className="animate-fade-in-up mb-16" style={{ animationDelay: '0.3s' }}>
