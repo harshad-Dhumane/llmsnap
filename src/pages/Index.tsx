@@ -91,7 +91,7 @@ const Index = () => {
                   <Globe className="w-12 h-12 text-primary mx-auto mb-4" />
                   <h4 className="text-xl font-semibold mb-3">Short & Memorable</h4>
                   <p className="text-muted-foreground">
-                    Only 9 characters, easy to remember, type, and share. Perfect for branding and marketing
+                    Only 7 characters, easy to remember, type, and share. Perfect for branding and marketing
                   </p>
                 </CardContent>
               </Card>
